@@ -1,6 +1,10 @@
 helooooo
 how are you
 
+<<<<<<< HEAD
 fine
 
 heyyyy
+=======
+heyy you
+>>>>>>> feature
