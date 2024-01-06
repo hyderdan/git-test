@@ -1,0 +1,36 @@
+[33mcommit 2f094cefdcf6423df36c09df5d1298ad9fca081c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature[m[33m)[m
+Author: Hyder Danish <hyder.danish369@gmail.com>
+Date:   Sat Jan 6 15:18:51 2024 +0530
+
+    hello file modified
+
+[33mcommit e7dbfb6b05828934a38cceb0dd91aa7e0228a262[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Hyder Danish <hyder.danish369@gmail.com>
+Date:   Sat Jan 6 15:14:55 2024 +0530
+
+    hey file modified
+
+[33mcommit 122ec54722adc5402be0a5febea3e6e5a51115c7[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: 0a97265 951e879
+Author: Hyder Danish <hyder.danish369@gmail.com>
+Date:   Sat Jan 6 15:10:57 2024 +0530
+
+    WIP on master: 0a97265 hello file modified
+
+[33mcommit 951e87992ee24e375d05490884a8b6412116b33c[m
+Author: Hyder Danish <hyder.danish369@gmail.com>
+Date:   Sat Jan 6 15:10:57 2024 +0530
+
+    index on master: 0a97265 hello file modified
+
+[33mcommit 0a9726522f4e4691d9ef473713ba111bba834e07[m
+Author: Hyder Danish <hyder.danish369@gmail.com>
+Date:   Sat Jan 6 14:51:39 2024 +0530
+
+    hello file modified
+
+[33mcommit 1428dcda4944099e3f20b04608eb4ee6c623fe1f[m
+Author: Hyder Danish <hyder.danish369@gmail.com>
+Date:   Sat Jan 6 14:37:37 2024 +0530
+
+    second file created
